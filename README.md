@@ -1,6 +1,6 @@
 # 🤖 LangChain-with-Hugging-Face-Inference-API-Endpoints
 
-In this repo, we'll be creating a Langchain RAG application with an open source LLM, open source embeddings, and Langsmith. This project was done during week 4 of AI Makerspace's AI Engineering Bootcamp Cohort 1 (AIE1).
+In this repo, we'll be creating a Langchain RAG application with an open source LLM, open source embeddings, and Langsmith. This project was done during week 5 of AI Makerspace's AI Engineering Bootcamp Cohort 1 (AIE1).
 
 ### ⚙️The colab link to the code is found and (will also be included in this repo) [here.](https://colab.research.google.com/drive/1PemSDTx8WqX2WCw-YvGbO_Ku9GEMtJnm?usp=sharing)
 
